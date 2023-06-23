@@ -1,7 +1,7 @@
 Hi 👋 My name is Phillip Segura
 ===============================
 
-Frontend Developer | Solutions Engenier
+Frontend Developer | Solutions Engineer
 ---------------------------------------
 
 After working in payments for nine years as a Solutions Engineer, I have been seriously learning code for about two years. Iv had to learn basic practices to integrate payment gateways and check out landing pages. I fell in love with the process, which has become a passion. Now my focus is to land a job doing frontend React/Nextjs development or working for companies like Paypal or Stripe so I can continue to develop my skills.
@@ -32,6 +32,5 @@ After working in payments for nine years as a Solutions Engineer, I have been se
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
 </p>
