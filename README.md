@@ -4,7 +4,7 @@ Hi 👋 My name is Phillip Segura
 Frontend Developer | Solutions Engineer
 ---------------------------------------
 
-After working in payments for nine years as a Solutions Engineer, I have been seriously learning code for about two years. Iv had to learn basic practices to integrate payment gateways and check out landing pages. I fell in love with the process, which has become a passion. Now my focus is to land a job doing frontend React/Nextjs development or working for companies like Paypal or Stripe so I can continue to develop my skills.
+After working in payments for nine years as a Solutions Engineer, I have been seriously learning code for about two years. Iv had to learn basic practices to integrate payment gateways and check out landing pages. I fell in love with the process, which has become a passion. Now my focus is to land a job doing frontend React/Nextjs development so I can continue to grow and develop my skills.
 
 *   🌍  I'm based in Dyer, Indiana
 *   🖥️  See my portfolio at [Website](http://phillipsegura.dev)
