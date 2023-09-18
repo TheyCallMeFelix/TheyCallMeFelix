@@ -9,7 +9,7 @@ After working in payments for nine years as a Solutions Engineer, I have been se
 *   🌍  I'm based in Dyer, Indiana
 *   🖥️  See my portfolio at [Website](http://phillipsegura.dev)
 *   ✉️  You can contact me at [hello@phillipsegura.dev](mailto:hello@phillipsegura.dev)
-*   🚀  I'm currently working on [PropAi](https://propbuddy.vercel.app/))
+*   🚀  I'm currently working on [LinkUp | QR](https://www.linkupqr.com))
 *   🧠  I'm learning ReactJs, NextJS, ThreeJS, ChatGPT, TailwindCSS, MongoDB, Firebase, Supabase
 *   🤝  I'm open to collaborating on Anything I can help with and or learn from.
 *   ⚡  I just got Lasik surgery and I kind of miss my glasses.<a href="https://www.twitter.com/theycallmefelix" target="_blank" rel="noreferrer"><img
