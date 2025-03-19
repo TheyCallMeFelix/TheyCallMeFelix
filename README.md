@@ -8,9 +8,9 @@ After working in payments for nine years as a Solutions Engineer, I have been se
 
 *   🌍  I'm based in Dyer, Indiana
 *   🖥️  See my portfolio at [Website](http://phillipsegura.dev)
-*   ✉️  You can contact me at [hello@phillipsegura.dev](mailto:hello@phillipsegura.dev)
-*   🚀  I'm currently working on [LinkUp | QR](https://www.linkupqr.com))
-*   🧠  I'm learning ReactJs, NextJS, ThreeJS, ChatGPT, TailwindCSS, MongoDB, Firebase, Supabase
+*   ✉️  You can contact me at [hello@phillipsegura.dev](mailto:hello@phillipsegura.com)
+*   🚀  I'm currently working on [Swiftly](https://www.swiftlyreview.com))
+*   🧠  I'm learning Swift/SwiftUI, React/NextJS, ThreeJS, AI prompt scripts, TailwindCSS, MongoDB, Firebase, Supabase
 *   🤝  I'm open to collaborating on Anything I can help with and or learn from.
 *   ⚡  I just got Lasik surgery and I kind of miss my glasses.<a href="https://www.twitter.com/theycallmefelix" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/theycallmefelix?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
