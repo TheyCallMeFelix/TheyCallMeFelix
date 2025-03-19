@@ -8,7 +8,7 @@ After working in payments for nine years as a Solutions Engineer, I have been se
 
 *   🌍  I'm based in Dyer, Indiana
 *   🖥️  See my portfolio at [Website](http://phillipsegura.dev)
-*   ✉️  You can contact me at [hello@phillipsegura.dev](mailto:hello@phillipsegura.com)
+*   ✉️  You can contact me at [hello@phillipsegura.com](mailto:hello@phillipsegura.com)
 *   🚀  I'm currently working on [Swiftly](https://www.swiftlyreview.com))
 *   🧠  I'm learning Swift/SwiftUI, React/NextJS, ThreeJS, AI prompt scripts, TailwindCSS, MongoDB, Firebase, Supabase
 *   🤝  I'm open to collaborating on Anything I can help with and or learn from.
